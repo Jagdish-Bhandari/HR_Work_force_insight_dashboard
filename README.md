@@ -6,6 +6,11 @@ This project focuses on analyzing workforce data to identify trends in employee 
 ## 📊 Data Source:
 - Internal HR dataset containing employee demographics, job details, performance ratings, attrition status, working hours, job satisfaction levels and and attrition data provided by the HR department.
 
+## Dashboard Overview :
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/cd56a41e-488b-4ecb-8837-6505ce873aad" />
+
+
+
   
 ## 🛠️ Tools Used:
 - Excel: Data cleaning, pre-processing, and formula-based transformation.
